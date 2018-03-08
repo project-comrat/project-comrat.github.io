@@ -35,19 +35,19 @@ disqus_show_comment_count: true
 
 #Can be used for multiple author blogs ! Add name to post For more visit the sample
 authors:
-  pranavrajs:
+  sudaraka94:
     display_name: Sudaraka Jayathilaka
     email: sudarakayasindu@gmail.com
     fb: sudara.yasi
     linkedin: sudaraka94
     twitter: sudaraka94
     github: sudaraka94
-    
-    anjanahg:
-    name: Anjana Gamage
-    display_name: Anjanahg
-   
-    email: anjanahg.com
-    
-    
+  shakthizen:
+    display_name: Shakthi Senavirathna
+    email: shakthis.mailbox@gmail.com
+    fb: shakthi.senavirathna
+    github: shakthizen
+  anjanahg:
+    display_name: Anjana Gamage
+    email: anjanahg@gmail.com
     github: anjanahg
